@@ -4,7 +4,7 @@
 
 <!-- 🌊 ANIMATED WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20there%2C%20I'm%20Anamika%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Programmer%20Analyst%20%40%20Cognizant%20%E2%80%A2%20Azure%20Cloud%20%26%20Data%20Enthusiast&descAlignY=60&descAlign=50&animation=fadeIn&v=2" alt="Anamika Kumari banner" />
+  <img src="./assets/banner.svg" alt="Anamika Kumari banner" />
 </p>
 
 <!-- ⌨️  TYPING ANIMATION -->
@@ -327,7 +327,7 @@ or how to mentor others through the same path. If any of that resonates — drop
 
 <!-- 🌊 FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=140&section=footer&v=2" alt="footer wave" />
+  <img src="./assets/footer.svg" alt="footer wave" />
 </p>
 
 <p align="center">
