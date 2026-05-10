@@ -103,7 +103,7 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/mentro.svg" alt="Mentro" width="64" height="64" />
+      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/mentro.jpg" alt="Mentro" width="64" height="64" />
     </td>
     <td>
       <b>Copywriter (Intern)</b> &nbsp;·&nbsp; <i>Mentro · Remote</i><br />
