@@ -1,49 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Anamika Kumari banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="50%" stop-color="#5A2EE0"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
-      <svg
-        width="854"
-        height="220"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 220"
-      >
-        <style>
-      .text {   font-size: 46px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#8E2DE2"/><stop offset="100%" stop-color="#4A00E0"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Hi there, I'm Anamika 👋</text>
-        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="60%" class="desc" style="fill:#ffffff;">Programmer Analyst @ Cognizant • Azure Cloud & Data Enthusiast</text>
-      </svg>
-    
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <g fill="#ffffff" opacity="0.08">
+    <circle cx="120" cy="60" r="3"/>
+    <circle cx="220" cy="180" r="2"/>
+    <circle cx="340" cy="40" r="2"/>
+    <circle cx="980" cy="70" r="3"/>
+    <circle cx="1080" cy="190" r="2"/>
+    <circle cx="900" cy="30" r="2"/>
+    <circle cx="1140" cy="120" r="3"/>
+    <circle cx="60" cy="160" r="2"/>
+  </g>
+
+  <path d="M0,205 C200,235 400,175 600,205 C800,230 1000,180 1200,210 L1200,240 L0,240 Z" fill="#ffffff" opacity="0.10"/>
+  <path d="M0,220 C200,200 400,235 600,215 C800,195 1000,230 1200,205 L1200,240 L0,240 Z" fill="#ffffff" opacity="0.07"/>
+
+  <text x="600" y="115" text-anchor="middle" fill="#ffffff"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="52" font-weight="700">Hi there, I'm Anamika</text>
+
+  <text x="600" y="165" text-anchor="middle" fill="#ffffff" opacity="0.92"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="18" font-weight="500"
+        letter-spacing="2">PROGRAMMER ANALYST &#64; COGNIZANT &#8226; AZURE CLOUD &amp; DATA ENTHUSIAST</text>
+</svg>
