@@ -73,7 +73,7 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
 <table>
   <tr>
     <td width="60" align="center">
-      <img src="https://img.shields.io/badge/-Cognizant-1F4E96?style=for-the-badge&logo=cognizant&logoColor=white" alt="cognizant" />
+      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/cognizant.png" alt="Cognizant" width="64" height="64" />
     </td>
     <td>
       <b>Programmer Analyst</b> &nbsp;·&nbsp; <i>Cognizant</i><br />
@@ -83,7 +83,7 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Cognizant-1F4E96?style=for-the-badge&logo=cognizant&logoColor=white" alt="cognizant" />
+      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/cognizant.png" alt="Cognizant" width="64" height="64" />
     </td>
     <td>
       <b>Programmer Analyst Trainee</b> &nbsp;·&nbsp; <i>Cognizant</i><br />
@@ -93,7 +93,7 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Filo-7E57C2?style=for-the-badge&logoColor=white" alt="filo" />
+      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/filo.png" alt="Filo" width="64" height="64" />
     </td>
     <td>
       <b>Tutor (Freelance)</b> &nbsp;·&nbsp; <i>Filo</i><br />
@@ -103,7 +103,7 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Mentro-FF6B6B?style=for-the-badge&logoColor=white" alt="mentro" />
+      <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/mentro.svg" alt="Mentro" width="64" height="64" />
     </td>
     <td>
       <b>Copywriter (Intern)</b> &nbsp;·&nbsp; <i>Mentro · Remote</i><br />
