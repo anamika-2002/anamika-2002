@@ -72,43 +72,43 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
 
 <table>
   <tr>
-    <td width="60" align="center">
+    <td width="90" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/cognizant.png" alt="Cognizant" width="64" height="64" />
     </td>
-    <td>
-      <b>Programmer Analyst</b> &nbsp;·&nbsp; <i>Cognizant</i><br />
-      <sub>📅 Dec 2024 — Present &nbsp;·&nbsp; 📍 Kolkata, Hybrid</sub><br />
-      <sub>Building & maintaining cloud data pipelines on Microsoft Azure.</sub>
+    <td valign="middle">
+      <h3>Programmer Analyst &nbsp;·&nbsp; <em>Cognizant</em></h3>
+      <p>📅 &nbsp;<b>Dec 2024 — Present</b> &nbsp;&nbsp;·&nbsp;&nbsp; 📍 &nbsp;Kolkata · Hybrid</p>
+      <p>Building &amp; maintaining cloud data pipelines on Microsoft Azure.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/cognizant.png" alt="Cognizant" width="64" height="64" />
     </td>
-    <td>
-      <b>Programmer Analyst Trainee</b> &nbsp;·&nbsp; <i>Cognizant</i><br />
-      <sub>📅 Dec 2023 — Jan 2026 &nbsp;·&nbsp; 📍 Kolkata, On-site</sub><br />
-      <sub>Stack: <code>SQL</code> · <code>Python</code> · <code>Azure</code> · <code>Databricks</code> · <code>Prompt Engineering</code></sub>
+    <td valign="middle">
+      <h3>Programmer Analyst Trainee &nbsp;·&nbsp; <em>Cognizant</em></h3>
+      <p>📅 &nbsp;<b>Dec 2023 — Jan 2026</b> &nbsp;&nbsp;·&nbsp;&nbsp; 📍 &nbsp;Kolkata · On-site</p>
+      <p>Stack: <code>SQL</code> · <code>Python</code> · <code>Azure</code> · <code>Databricks</code> · <code>Prompt Engineering</code></p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/filo.png" alt="Filo" width="64" height="64" />
     </td>
-    <td>
-      <b>Tutor (Freelance)</b> &nbsp;·&nbsp; <i>Filo</i><br />
-      <sub>📅 Mar 2021 — May 2022 &nbsp;·&nbsp; 1 yr 3 mos</sub><br />
-      <sub>Helped students unlock concepts in STEM, one doubt at a time.</sub>
+    <td valign="middle">
+      <h3>Tutor &nbsp;·&nbsp; <em>Filo</em> &nbsp;<sup><sub>FREELANCE</sub></sup></h3>
+      <p>📅 &nbsp;<b>Mar 2021 — May 2022</b> &nbsp;&nbsp;·&nbsp;&nbsp; ⏱️ &nbsp;1 yr 3 mos</p>
+      <p>Helped students unlock concepts in STEM, one doubt at a time.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/logos/mentro.jpg" alt="Mentro" width="64" height="64" />
     </td>
-    <td>
-      <b>Copywriter (Intern)</b> &nbsp;·&nbsp; <i>Mentro · Remote</i><br />
-      <sub>📅 Jan 2022 — Apr 2022 &nbsp;·&nbsp; 4 mos</sub><br />
-      <sub>Crafted crisp, on-brand copy for a fast-moving ed-tech audience.</sub>
+    <td valign="middle">
+      <h3>Copywriter &nbsp;·&nbsp; <em>Mentro</em> &nbsp;<sup><sub>INTERN · REMOTE</sub></sup></h3>
+      <p>📅 &nbsp;<b>Jan 2022 — Apr 2022</b> &nbsp;&nbsp;·&nbsp;&nbsp; ⏱️ &nbsp;4 mos</p>
+      <p>Crafted crisp, on-brand copy for a fast-moving ed-tech audience.</p>
     </td>
   </tr>
 </table>
