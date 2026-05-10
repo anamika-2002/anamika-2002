@@ -44,14 +44,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-👩‍💻 name:        Anamika Kumari
+👤 name:        Anamika Kumari
 🏢 role:        Programmer Analyst @ Cognizant
 🎓 background:  B.Tech, Chemical Engineering — HITK '23
 📍 location:    Kolkata, West Bengal, India
-☁️  focus:       Azure Data Engineering, Cloud Analytics, PySpark
+🎯 focus:       Azure Data Engineering, Cloud Analytics, PySpark
 🌱 learning:    Prompt Engineering • Databricks deep-dive • System design
 💡 ethos:       "Turn data into decisions, decisions into impact."
-⚡ fun fact:     Started in chemical engineering, fell in love with code 💜
+🚀 fun fact:    Started in chemical engineering, fell in love with code 💜
 ```
 
 <p>
