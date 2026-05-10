@@ -4,7 +4,7 @@
 
 <!-- 🌊 ANIMATED WAVE BANNER -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Anamika Kumari banner" />
+  <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/banner.svg" alt="Anamika Kumari banner" />
 </p>
 
 <!-- ⌨️  TYPING ANIMATION -->
@@ -327,7 +327,7 @@ or how to mentor others through the same path. If any of that resonates — drop
 
 <!-- 🌊 FOOTER WAVE -->
 <p align="center">
-  <img src="./assets/footer.svg" alt="footer wave" />
+  <img src="https://raw.githubusercontent.com/anamika-2002/anamika-2002/main/assets/footer.svg" alt="footer wave" />
 </p>
 
 <p align="center">
