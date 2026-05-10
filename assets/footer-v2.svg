@@ -5,7 +5,6 @@
       <stop offset="100%" stop-color="#8E2DE2"/>
     </linearGradient>
   </defs>
-
   <path d="M0,30 C200,70 400,0 600,30 C800,60 1000,10 1200,40 L1200,140 L0,140 Z" fill="url(#fg)"/>
   <path d="M0,50 C200,20 400,80 600,50 C800,20 1000,80 1200,50 L1200,140 L0,140 Z" fill="#ffffff" opacity="0.10"/>
   <path d="M0,70 C200,90 400,40 600,70 C800,100 1000,50 1200,80 L1200,140 L0,140 Z" fill="#ffffff" opacity="0.07"/>

@@ -10,10 +10,8 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect width="1200" height="240" fill="url(#bg)"/>
   <rect width="1200" height="240" fill="url(#glow)"/>
-
   <g fill="#ffffff" opacity="0.08">
     <circle cx="120" cy="60" r="3"/>
     <circle cx="220" cy="180" r="2"/>
@@ -24,16 +22,8 @@
     <circle cx="1140" cy="120" r="3"/>
     <circle cx="60" cy="160" r="2"/>
   </g>
-
   <path d="M0,205 C200,235 400,175 600,205 C800,230 1000,180 1200,210 L1200,240 L0,240 Z" fill="#ffffff" opacity="0.10"/>
   <path d="M0,220 C200,200 400,235 600,215 C800,195 1000,230 1200,205 L1200,240 L0,240 Z" fill="#ffffff" opacity="0.07"/>
-
-  <text x="600" y="115" text-anchor="middle" fill="#ffffff"
-        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-        font-size="52" font-weight="700">Hi there, I'm Anamika</text>
-
-  <text x="600" y="165" text-anchor="middle" fill="#ffffff" opacity="0.92"
-        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-        font-size="18" font-weight="500"
-        letter-spacing="2">PROGRAMMER ANALYST &#64; COGNIZANT &#8226; AZURE CLOUD &amp; DATA ENTHUSIAST</text>
+  <text x="600" y="115" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700">Hi there, I am Anamika</text>
+  <text x="600" y="165" text-anchor="middle" fill="#ffffff" opacity="0.92" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="2">PROGRAMMER ANALYST AT COGNIZANT  •  AZURE CLOUD AND DATA ENTHUSIAST</text>
 </svg>
