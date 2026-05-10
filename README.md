@@ -3,9 +3,9 @@
      ╰──────────────────────────────────────────────────────────────╯ -->
 
 <!-- 🌊 ANIMATED WAVE BANNER -->
-<a href="https://github.com/anamika-2002">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00B4DB&height=240&section=header&text=Anamika%20Kumari&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Programmer%20Analyst%20%40%20Cognizant%20%E2%80%A2%20Azure%20Cloud%20%26%20Data%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn" alt="header banner" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20there%2C%20I'm%20Anamika%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Programmer%20Analyst%20%40%20Cognizant%20%E2%80%A2%20Azure%20Cloud%20%26%20Data%20Enthusiast&descAlignY=60&descAlign=50&animation=fadeIn&v=2" alt="Anamika Kumari banner" />
+</p>
 
 <!-- ⌨️  TYPING ANIMATION -->
 <p align="center">
@@ -326,7 +326,9 @@ or how to mentor others through the same path. If any of that resonates — drop
 <br />
 
 <!-- 🌊 FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:4A00E0,100:8E2DE2&height=140&section=footer" alt="footer wave" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=140&section=footer&v=2" alt="footer wave" />
+</p>
 
 <p align="center">
   <sub>⭐ <i>"From beakers to bytes — engineered with curiosity, shipped with care."</i> ⭐</sub><br />
