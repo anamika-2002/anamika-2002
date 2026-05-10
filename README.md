@@ -265,44 +265,6 @@ I'm equally at home in a <code>SQL</code> console, a <code>PySpark</code> notebo
 <br />
 
 <!-- ╭───────────────────────────────────────╮
-     │  📊  GITHUB STATS                      │
-     ╰───────────────────────────────────────╯ -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamika-2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=8b5cf6&icon_color=00b4db" alt="github stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=anamika-2002&theme=tokyonight&hide_border=true&background=1a1b27&ring=8b5cf6&fire=00b4db&currStreakLabel=8b5cf6" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamika-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anamika-2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
-</p>
-
-<!-- 🌈 ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamika-2002&bg_color=1a1b27&color=8b5cf6&line=00b4db&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<br />
-
-<!-- ╭───────────────────────────────────────╮
-     │  💭  QUOTE OF THE MOMENT               │
-     ╰───────────────────────────────────────╯ -->
-
-## 💭 Quote of the Moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
-
-<br />
-
-<!-- ╭───────────────────────────────────────╮
      │  💬  LET'S CONNECT                     │
      ╰───────────────────────────────────────╯ -->
 
